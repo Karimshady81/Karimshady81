@@ -1,8 +1,10 @@
-# Karimshady81
 # 👋 Hi there, I'm Karim
 
-This is where I build, learn, and sometimes break things.  
-I’m a **Junior Back-End Developer** passionate about APIs, clean architecture, and turning ideas into working systems.
+💻 **Junior Back-End Developer**  
+🌍 Based in Egypt  
+
+This is one of my favorite places to build, learn, and tinker with ideas — I love crafting systems that connect front-end interfaces to real data through APIs.  
+I'm currently studying and creating projects that help me grow as a backend developer using  **C#**, and **.NET** (Sometimes i tinker with Java 🤷🏻‍♂️).
 
 ---
 
@@ -30,14 +32,31 @@ I’m a **Junior Back-End Developer** passionate about APIs, clean architecture,
 ### 🧠 Tech Stack
 **Languages:** C#, Java, JavaScript, HTML, CSS  
 **Frameworks:** .NET MVC, Blazor, React, Spring (learning)  
-**Tools:** Visual Studio, VS Code, Git, GitHub, Postman  
 **Databases:** SQL Server, MySQL  
+**Tools:** Visual Studio, VS Code, Git, GitHub, Postman  
 
 ---
 
-### 📫 How to reach me
-📍 Egypt  
-✉️ [karimshady81@gmail.com](mailto:karimshady81@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/karimshady1)  
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/karimshady1" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="mailto:kshady960@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
+</p>
 
 ---
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+</p>
