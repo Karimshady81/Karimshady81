@@ -23,7 +23,7 @@ I'm currently studying and creating projects that help me grow as a backend deve
 ### 💻 Projects I'm proud of
 | Project                                                  | Description                                       | Tech                     |
 | -------------------------------------------------------- | ------------------------------------------------- | ------------------------ |
-| [MovieMinds](https://github.com/Karimshady81/MovieMinds) | A movie diary app built with .NET and TMDB API    | C#, ASP.NET MVC, EF Core |
+| [MovieMinds](https://github.com/Karimshady81/Movie-Minds) | A movie diary app built with .NET and TMDB API    | C#, ASP.NET MVC, EF Core |
 | [Chef-App](https://github.com/Karimshady81/Chef-App)     | Recipe & ingredient finder consuming a public API | React, JavaScript        |
 | [WeatherApp](https://github.com/Karimshady81/weatherApp) | Weather details by city using OpenWeather API     | JavaScript               |
 
