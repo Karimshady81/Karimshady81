@@ -9,8 +9,8 @@ I'm currently studying and creating projects that help me grow as a backend deve
 ---
 
 ### 🔭 What I'm currently working on
-- Building **MovieMinds**, a movie diary app where users can rate, like, and add to watchlists  
-- Exploring **ASP.NET**, **Blazor Components**, and **Entity Framework**
+- Building **ECommerceAPI**, an app that lets the user add to cart, Checkout and Purchase products using **stripe** payment
+- Exploring **ASP.NET**, **Blazor Components**, and **Entity Framework**, **Layered Architecture**
 
 ---
 
